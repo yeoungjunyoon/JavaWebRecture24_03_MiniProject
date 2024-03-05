@@ -1,0 +1,25 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+    
+    <div class="container-fluid d-flex justify-content-center">
+        <div>
+            <a class="nav-link" href="/mini/team3/main"><img src="/mini/img/logo_noBG.png" width="100px" height="100px" style="float: left;"></a>
+        </div>
+        <div class="ml-2 pt-4" style="clear:both;"></div>
+    </div>
+    
+    <div class="category-section">
+      <div class="w-container">
+          <div class="w-dyn-list">
+              <div role="list" class="w-clearfix w-dyn-items w-row">
+                  <div role="listitem" class="category-wrapper w-dyn-item w-col w-col-2"><a
+                          href="#" class="category-link">공지사항</a></div>
+                  <div role="listitem" class="category-wrapper w-dyn-item w-col w-col-2"><a
+                          href="#" class="category-link">이벤트</a></div>
+                  <div role="listitem" class="category-wrapper w-dyn-item w-col w-col-2"><a
+                          href="/mini/team3/item/list?p=1" class="category-link">상품</a></div>
+                  <div role="listitem" class="category-wrapper w-dyn-item w-col w-col-2"><a
+                          href="/mini/team3/board/list?p=1" class="category-link">게시판</a></div>
+              </div>
+          </div>
+      </div>
+    </div>

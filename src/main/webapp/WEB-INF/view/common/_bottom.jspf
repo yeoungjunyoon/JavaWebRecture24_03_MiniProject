@@ -1,0 +1,15 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<style>
+ nav {
+	 background-color: #f8f1e6;
+ }
+</style>
+<footer class="footer mt-auto py-3"> <!-- Footer 추가 -->
+	<nav class="navbar navbar-expand-sm"> 
+		<div class="container-fluid justify-content-center">
+			<span class="navbar-text">
+				Copyright &copy; 2024 Team3 World Corp. All rights reserved.
+			</span>
+		</div>
+	</nav>
+</footer>
